@@ -14,7 +14,7 @@
 ┌──(sofre㉿github)-[~]
 └─$ cat about.txt
 
-Computer Science graduate focused on software engineering,
+SWE focused on software engineering,
 AI engineering, backend architecture and intelligent systems.
 
 Currently exploring:
@@ -55,16 +55,6 @@ automation/
   └── SCADA
 
 ┌──(sofre㉿github)-[~]
-└─$ ls projects_and_interests/
-
-  ├── Multi-Agent Systems & LLM Orchestration
-  ├── AI-Powered Applications
-  ├── Backend Microservices & REST APIs
-  ├── Retrieval-Augmented Generation
-  ├── Industrial Automation & SCADA
-  └── Distributed Systems & Software Architecture
-
-┌──(sofre㉿github)-[~]
 └─$ cat contact.txt
 
 Email:
@@ -78,6 +68,5 @@ LinkedIn:
 
 
 
-┌──(sofre㉿github)-[~]
-└─$ _
+
 ```
