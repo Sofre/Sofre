@@ -1,41 +1,83 @@
-```text
+```bash
+┌──(sofre㉿github)-[~]
+└─$ whoami
+
 ███████╗ ██████╗ ███████╗██████╗ ███████╗
 ██╔════╝██╔═══██╗██╔════╝██╔══██╗██╔════╝
 ███████╗██║   ██║█████╗  ██████╔╝█████╗
 ╚════██║██║   ██║██╔══╝  ██╔══██╗██╔══╝
-███████║╚██████╔╝██║     ██║  ██ ██████╗
+███████║╚██████╔╝███████╗██║  ██║███████╗
 ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 
              - инг. Душко Софрониевски
+
+┌──(sofre㉿github)-[~]
+└─$ cat about.txt
+
+Computer Science graduate focused on software engineering,
+AI engineering, backend architecture and intelligent systems.
+
+Currently exploring:
+  [+] Multi-Agent Architectures
+  [+] LLM Applications
+  [+] Retrieval-Augmented Generation (RAG)
+  [+] Scalable Backend Infrastructure
+
+┌──(sofre㉿github)-[~]
+└─$ ls technical_stack/
+
+languages/
+  ├── Python
+  ├── Java
+  ├── C#
+  └── TypeScript
+
+backend/
+  ├── FastAPI
+  ├── Spring Boot
+  └── NestJS
+
+ai_ml/
+  ├── LLMs
+  ├── RAG
+  ├── Multi-Agent Systems
+  └── Model Evaluation
+
+infrastructure/
+  ├── Linux
+  ├── Docker
+  ├── Podman
+  └── Git
+
+automation/
+  ├── Siemens TIA Portal
+  ├── PLC
+  └── SCADA
+
+┌──(sofre㉿github)-[~]
+└─$ ls projects_and_interests/
+
+  ├── Multi-Agent Systems & LLM Orchestration
+  ├── AI-Powered Applications
+  ├── Backend Microservices & REST APIs
+  ├── Retrieval-Augmented Generation
+  ├── Industrial Automation & SCADA
+  └── Distributed Systems & Software Architecture
+
+┌──(sofre㉿github)-[~]
+└─$ cat contact.txt
+
+Email:
+  dukisofronievski@gmail.com
+
+LinkedIn:
+  Dushko Sofronievski @ FlyRank.ai
+
+┌──(sofre㉿github)-[~]
+└─$ echo " noocvshpere soon"
+
+
+
+┌──(sofre㉿github)-[~]
+└─$ _
 ```
-
-# Software Engineer | AI • Backend • Systems
-
-Computer Science graduate focused on software engineering, AI engineering, backend architecture and intelligent systems.
-
-Currently exploring multi-agent architectures, LLM applications, RAG pipelines and scalable backend infrastructure.
-
-## Technical Stack
-
-- **Languages:** Python, Java, C#, TypeScript
-- **Backend:** FastAPI, Spring Boot, NestJS
-- **AI & ML:** LLMs, RAG, Multi-Agent Systems, Model Evaluation
-- **Infrastructure:** Linux, Docker, Podman, Git
-- **Automation:** Siemens TIA Portal, PLC, SCADA
-
-## Projects & Interests
-
-- Multi-Agent Systems and LLM orchestration
-- AI-powered applications and intelligent automation
-- Backend microservices and REST APIs
-- Retrieval-Augmented Generation (RAG)
-- Industrial automation and SCADA integration
-- Distributed systems and software architecture
-
-## Contact
-
-- Email : dukisofronievski@gmail.com
-- Linkdin  : Linkdin/Dushko Sofronievski @ FlyRank.ai
-
-
-
